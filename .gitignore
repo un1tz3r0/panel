@@ -56,3 +56,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+panel.sublime-project
+panel.sublime-workspace
+ui.hpp
+preferences.hpp.broken.hpp
+spline.hpp
+type_traits.hpp
+color.hpp
